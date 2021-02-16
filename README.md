@@ -1,4 +1,5 @@
 # InternalEnabler
+<img src="https://github.com/InternalStore/InternalEnabler/blob/main/Banner.png?raw=true" alt="" height="350"/>
 ![Preview](https://github.com/InternalStore/InternalEnabler/blob/main/Banner.png?raw=true)
 
 ## Description
