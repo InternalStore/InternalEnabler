@@ -1,5 +1,6 @@
 # InternalEnabler
-  
+![Preview](https://github.com/InternalStore/InternalEnabler/blob/main/Banner.png?raw=true)
+
 ## Description
 This is a script which will enable certain internal features on production builds of iOS. This *does not* install the Internal Settings bundle that comes pre-installed on InternalUI builds, but rather enables certain features such as Tap-to-Radar bug reporting, the Confidential & Proprietary text on the lockscreen, as well as a few other small features. Please be careful when using scripts like this. It is highly reccomended that you have a backup of your SystenVersion.plist file before running this script.
 
