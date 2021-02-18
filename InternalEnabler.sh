@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Welcome to InternalEnabler v1.0!
+echo Welcome to InternalEnabler v1.2!
 echo Please select an option:
 echo 1. Install
 echo 2. Uninstall
