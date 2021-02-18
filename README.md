@@ -13,7 +13,7 @@ Developer
 **Internal Store**  
   
 Size  
-**?? KB**  
+**4 KB**  
   
 Category  
 **Shell Scritpt**  
