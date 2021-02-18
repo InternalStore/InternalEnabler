@@ -14,6 +14,10 @@ Launch NewTerm and run the following commands as root:
 6. `./InternalEnabler.sh`
   
 ## Changelog
+**1.2 (Hotfix)**  
+  *  Fixes Tap-to-Radar installation
+  *  Includes updated installation process
+  
 **1.0 (Initial Release)**  
   *  Modifies SystemVersion.plist
   *  Installs Tap-to-Radar
