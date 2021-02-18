@@ -33,4 +33,4 @@ Copyright
   
 [Internal Store on Twitter](https://www.twitter.com/InternalStore)  
 [Internal Store on The iPhone Wiki](https://www.theiphonewiki.com/wiki/User:InternalStore)  
-[Donate](https://paypal.me/BreckenLusk)
+[Donate via PayPal](https://paypal.me/BreckenLusk)
