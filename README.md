@@ -32,9 +32,9 @@ Category
 Compatibility  
 **Jailbroken iOS 13 and up**  
   
-Supprted Jailbreaks
-**checkra1n**
-**unc0ver**
+Supprted Jailbreaks  
+**checkra1n**  
+**unc0ver**  
   
 Languages  
 **English**  
