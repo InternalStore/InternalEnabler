@@ -28,4 +28,5 @@ Copyright
 **© 2021**  
   
   
-[Developer Website](https://www.twitter.com/InternalStore)  
+[Internal Store on Twitter](https://www.twitter.com/InternalStore)  
+[Internal Store on The iPhone Wiki](https://www.theiphonewiki.com/wiki/User:InternalStore)  
