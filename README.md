@@ -30,7 +30,7 @@ Category
 **Shell Scritpt**  
   
 Compatibility  
-**Jailbroken iOS 13 and up**  
+**iOS 13 and up**  
   
 Supprted Jailbreaks  
 **checkra1n and unc0ver**  
