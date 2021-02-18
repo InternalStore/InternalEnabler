@@ -16,7 +16,7 @@ Size
 **?? KB**  
   
 Category  
-**Script: Executable**  
+**Shell Scritpt**  
   
 Compatibility  
 **iOS 13.0 or higher**  
