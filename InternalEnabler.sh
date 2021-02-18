@@ -16,11 +16,11 @@ if [ "$option" = "1" ] ; then
   echo "Done!"
   echo
   echo "Modifying ProductType..."
-  plutil -insert ProductType -string "Internal" SystemVersion.plist
+  plutil -ProductType -string "Internal" SystemVersion.plist
   echo "Done!"
   echo
   echo "Modifying ReleaseType..."
-  plutil -insert ReleaseType -string "Internal" SystemVersion.plist
+  plutil -ReleaseType -string "Internal" SystemVersion.plist
   echo "Done!"
   echo
   echo "SystemVersion.plist successfully modified!"
@@ -40,13 +40,10 @@ if [ "$option" = "1" ] ; then
  
 elif [ "$option" = "2" ] ; then
   echo
-  echo "Uninstalling modified SystemVersion.plist..."
+  echo "Reverting SystemVersion.plist..."
   cd /System/Library/CoreServices/  
-  rm -rf SystemVersion.plist
-  echo "Done!"
-  echo
-  echo "Restoring original SystemVersion.plist from backup..."
-  mv /System/Library/CoreServices/SystemVersion.plist.bak /System/Library/CoreServices/SystemVersion.plist
+  plutil -ProductType -remove SystemVersion.plist
+  plutil -ReleaseType -remove SystemVersion.plist
   echo "Done!"
   echo
   echo "Uninstalling Tap-to-Radar"
