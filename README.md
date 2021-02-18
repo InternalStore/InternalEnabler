@@ -28,7 +28,7 @@ Size
 **4 KB**  
   
 Category  
-**Shell Scritpt**  
+**Shell Script**  
   
 Compatibility  
 **iOS 13 and up**  
