@@ -9,8 +9,9 @@ Launch NewTerm and run the following commands as root:
 1. `apt-get install git`
 2. `cd /var/mobile/Documents/`
 3. `git clone https://github.com/InternalStore/InternalEnabler.git`
-4. `chmod +x /var/mobile/Documents/InternalEnabler/InternalEnabler.sh`
-5. `./InternalEnabler.sh`
+4. `cd /var/mobile/Documents/InternalEnabler/
+5. `chmod +x InternalEnabler.sh`
+6. `./InternalEnabler.sh`
   
 ## Changelog
 **1.0 (Initial Release)**  
